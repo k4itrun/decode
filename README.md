@@ -200,6 +200,10 @@ async function example() {
 }
 ```
 
+## Credits
+
+This project was officially initialized from [deobfuscate.io](https://obf-io.deobfuscate.io/) all credits are due to them, but currently I am giving better support to the entire base in obsolescence or bugs code
+
 ## Contributing
 
 If you have insights, suggestions, or contributions, please feel free to open an issue or submit a pull request.
