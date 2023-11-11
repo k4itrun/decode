@@ -4,7 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "tsc && node dist/decode.js"
+        "build": "tsc && node dist/decode.js",
+        "start": "node dist/decode.js"
     },
     "author": "",
     "license": "ISC",

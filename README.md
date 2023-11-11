@@ -43,7 +43,7 @@ npm install
 3. **Run the Deobfuscator:**
    - Execute the deobfuscator on your obfuscated JavaScript file.
 ```bash
-npm run start
+npm run build && npm run start
 ```
 
 > [!IMPORTANT]
