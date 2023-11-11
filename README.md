@@ -47,7 +47,7 @@ npm run start
 ```
 
 > [!IMPORTANT]
-> When you run the script, remember that in the input folder you have to add your obfuscated code and the result will appear in output
+> When you run the script, remember that in the **input** folder you have to add your obfuscated code and the result will appear in **output**
 
 **Example**
 - Obfuscated code 
